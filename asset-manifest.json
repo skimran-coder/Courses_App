@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Courses_App/static/css/main.beaddfe1.css",
+    "main.js": "/Courses_App/static/js/main.173d1dc4.js",
+    "index.html": "/Courses_App/index.html",
+    "main.beaddfe1.css.map": "/Courses_App/static/css/main.beaddfe1.css.map",
+    "main.173d1dc4.js.map": "/Courses_App/static/js/main.173d1dc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beaddfe1.css",
+    "static/js/main.173d1dc4.js"
+  ]
+}
