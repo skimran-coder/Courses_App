@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-.spinner {
+/* .spinner {
     width: 56px;
     height: 56px;
     border-radius: 50%;
@@ -15,4 +15,8 @@
     to {
         transform: rotate(1turn);
     }
+} */
+
+body{
+    background-color: #33b644;
 }

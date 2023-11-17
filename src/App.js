@@ -6,7 +6,7 @@ import Cards from "./components/Cards";
 
 const App = () => {
   return (
-    <div className="m-0 p-0 box-border bg-[#fb95ff]">
+    <div className="m-0 p-0 box-border bg-[#33b644] pb-4">
       <Header />
       <Navbar filterData={filterData}/>
       <Cards/>
